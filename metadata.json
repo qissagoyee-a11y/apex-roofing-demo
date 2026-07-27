@@ -1,0 +1,6 @@
+{
+  "name": "Apex Roofing Solutions",
+  "description": "Premium roofing services in Dallas, Texas. High conversion demo template with instant estimate calculator, emergency 24/7 service, and before/after showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
